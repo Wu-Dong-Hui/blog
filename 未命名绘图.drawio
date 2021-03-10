@@ -1,1 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T03:09:31.897Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="5dEZ9KNBXiuotXxkLg-1" version="14.4.6" type="github"><diagram id="w_XlIubU8JKwULdoLs-O" name="第 1 页">ddHNEoIgEADgp+Gu4FiezfLSyUNnRjZhBl0HabSePh0wY6wTy7cLyw9heTtdDO/lFQVoQiMxEXYilMYJTedhkaeTLE4cNEYJX7RBpV7gMfL6UAKGoNAiaqv6EGvsOqhtYNwYHMOyO+qwa88b2EFVc73XmxJWOj3Sw+YlqEauneM0c5mWr8X+JoPkAscvYgVhuUG0LmqnHPTyeOu7uHXnP9nPwQx09seCOdj2nifBD7HiDQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T03:10:39.928Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ciuctPVEE1EKencYrjPj" version="14.4.6" type="github">
+  <diagram id="w_XlIubU8JKwULdoLs-O" name="第 1 页">
+    <mxGraphModel dx="1426" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eGLcwhRN9MHRBRn1sQhQ-1" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Attribute1: Type&lt;br/&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eGLcwhRN9MHRBRn1sQhQ-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="eGLcwhRN9MHRBRn1sQhQ-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
